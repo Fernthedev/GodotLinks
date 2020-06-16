@@ -1,9 +1,8 @@
 # GodotLinks
 
-Awesome Godot on github
-https://github.com/godotengine/awesome-godot
+A repository of links for Godot-related stuff we would like to use
 
-# Assets
+[Assets](assets.md)
 
-16x16 Industrial Tileset
-https://0x72.itch.io/16x16-industrial-tileset
+[General](general.md)
+

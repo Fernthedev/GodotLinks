@@ -6,3 +6,4 @@ A repository of links for Godot-related stuff we would like to use
 
 [General](general.md)
 
+[Music](music.md)
